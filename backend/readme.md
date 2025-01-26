@@ -1,0 +1,9 @@
+npm init -y
+npm i express
+npm i dotenv 
+npm i cors
+npm i mongoose
+npm i bcrypt
+npm i jsonwebtoken
+npm i express-validator
+npm i cookie-parser
